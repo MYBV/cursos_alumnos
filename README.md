@@ -14,7 +14,7 @@ _Ejecuta los siguientes pasos en orden:_
 
 ### Paso 1 Clona el repositorio: 
 
-  ```$ git clone ``` 📥
+  ```$ git clone https://github.com/MYBV/cursos_alumnos.git``` 📥
 
 ### Paso 2 Entra a la carpeta donde se descargo el repositorio y ejecuta el siguiente comando:
   
